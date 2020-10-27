@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 2484,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-az-empty-resource-group/master/Remove-AzEmptyResourceGroup.ps1",
+    "DownloadCount": 626,
+    "Id": "Remove-Az-Empty-Resource-c0a75de8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 115,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2020-1-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Very simple powershell function which is meant to remove all empty resource groups which are found.Function is accepting one of the paramters from two possible parameter sets.In case you specify All, it will check against all available resource groups, if they are empty and remov",
+    "Title": "Remove Az Empty Resource Group",
+    "UpdatedDate": "2020-1-21T00:00:00",
+    "Url": "https://github.com/azureautomation/remove-az-empty-resource-group",
+    "UserTags": "Microsoft Azure, Resource Groups"
+}
